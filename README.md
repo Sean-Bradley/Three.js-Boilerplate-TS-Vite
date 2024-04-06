@@ -25,7 +25,7 @@ npm install
 npm run dev
 ```
 
-[Visit ](http://localhost:5173/)
+Visit [http://localhost:5173/](http://localhost:5173/)
 
 To create production version,
 
@@ -34,6 +34,8 @@ npm run build
 npm preview
 ```
 
-[Visit ](http://localhost:4173/)
+Visit [http://localhost:4173/](http://localhost:4173/)
+
+
 
 
