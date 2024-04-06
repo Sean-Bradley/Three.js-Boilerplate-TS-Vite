@@ -34,11 +34,9 @@ Visit [http://localhost:5173/](http://localhost:5173/)
 
 ### Build Production
 
-To create production version,
-
 ```bash
 npm run build
-npm preview
+npm run preview
 ```
 
 Visit [http://localhost:4173/](http://localhost:4173/)
