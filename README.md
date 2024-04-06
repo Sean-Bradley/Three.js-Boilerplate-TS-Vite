@@ -12,7 +12,7 @@ Course Discount Coupons : https://sbcode.net/coupons#threejs
 
 When run, the boilerplate shows a multi-coloured wireframe cube, with `OrbitControls`, `Dat.GUI` and `Stats.js` included.
 
-[Example](https://sbcode.net/threejs/threejs-typescript-boilerplate/)
+[Example](https://sean-bradley.github.io/Three.js-Boilerplate-TS-Vite/)
 
 ![](docs/screengrab.jpg)
 
@@ -22,10 +22,17 @@ When run, the boilerplate shows a multi-coloured wireframe cube, with `OrbitCont
 git clone https://github.com/Sean-Bradley/Three.js-Boilerplate-TS-Vite.git
 cd Three.js-Boilerplate-TS-Vite
 npm install
+```
+
+### Develop
+
+```
 npm run dev
 ```
 
 Visit [http://localhost:5173/](http://localhost:5173/)
+
+### Build Production
 
 To create production version,
 
@@ -36,6 +43,16 @@ npm preview
 
 Visit [http://localhost:4173/](http://localhost:4173/)
 
+### Deploy to GitHub pages
 
+If you forked this repository, then you can publish your changes to GitHub pages.
 
+```bash
+npm run deploy
+```
 
+Visit `https://<your github username>.github.io/Three.js-Boilerplate-TS-Vite/`
+
+E.g.,
+
+[https://sean-bradley.github.io/Three.js-Boilerplate-TS-Vite/](https://sean-bradley.github.io/Three.js-Boilerplate-TS-Vite/)
